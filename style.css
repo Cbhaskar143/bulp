@@ -1,0 +1,11 @@
+.picture img:hover{
+    cursor: pointer;
+}
+.product img{
+    cursor: crosshair;
+}
+.picture{
+    height: 400px;
+    background: red;
+    overflow: auto;
+}
